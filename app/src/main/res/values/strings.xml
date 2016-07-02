@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CreditCardApplication</string>
+    <string name="lbl_cardbalance">Card Balance</string>
+    <string name="lbl_interest">Interest</string>
+    <string name="lbl_payment">Payment</string>
+
+    <string name="lbl_final_card_balance">Final Card Balance</string>
+
+    <string name="lbl_months_remaining">Months Remaining</string>
+    <string name="lbl_interest_paid">Interest Paid</string>
+    <string name="lbl_calculate">Compute</string>
+    <string name="lbl_clear">Clear</string>
+</resources>
